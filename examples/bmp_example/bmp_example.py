@@ -1,4 +1,4 @@
-from stegapy.stegabmp import encode_image, decode_image
+from stegapy.stegapy.stegabmp import encode_image, decode_image
 import os
 
 

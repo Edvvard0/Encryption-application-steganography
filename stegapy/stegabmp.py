@@ -130,3 +130,9 @@ def create_masks(degree):
     img_mask <<= degree
 
     return text_mask, img_mask
+
+
+# encode_image(r'C:\Users\Computer\PycharmProjects\new_man_moskov\stegapy\examples\bmp_example\start.bmp',
+#              r'C:\Users\Computer\PycharmProjects\new_man_moskov\stegapy\examples\bmp_example\encoded.bmp',
+#              r'C:\Users\Computer\PycharmProjects\new_man_moskov\stegapy\examples\bmp_example\sample.txt',
+#              1 C:\Users\Computer\PycharmProjects\new_man_moskov\stegapy\examples\bmp_example\result.txt)
